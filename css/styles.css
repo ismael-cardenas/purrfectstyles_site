@@ -1,0 +1,68 @@
+h1, h2 {
+    font-family: 'Yatra One', cursive;
+    color: #355070;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2:before {
+    content: " ";
+    display: block;
+    visibility: hidden;
+    margin-top: -5rem;
+    height: 5rem;
+    background-color:none;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 800;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #6D597A;
+}
+.card-header {
+    background-color: #E56B6F;
+}
+
+.btn-purr {
+    background-color: #B56576;
+    color: white;
+}
+
+.btn-link  {
+    color: #355070;
+}
+
+li a {
+    color: #355070;
+}
+
+.spacer {
+    height: 3rem;
+    /* background-color: rgb(218, 20, 168); */
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    background-color: #EAAC8B;
+}
+
+.hero-text{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+
+}
+.hero-heading{
+    font-family: 'Josefin Sans', sans-serif;
+}
